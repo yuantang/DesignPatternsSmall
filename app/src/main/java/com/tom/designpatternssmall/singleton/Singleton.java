@@ -9,7 +9,6 @@ import java.util.Map;
 public class Singleton {
     private static Singleton mInstance=null;
     private Singleton(){
-
     }
 
     /**
